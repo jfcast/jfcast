@@ -1,16 +1,23 @@
-### Hi there 👋
+<div style="text-align: right">
+  
+  <h3>Hola! Soy Juan Castillo</h3>
+  
+  <h4>Desarrollador Frontend y diseñador gráfico autodidacta, enfocado principalmente en Javascript y su ecosistema de tecnologías</h4>
+  
+  <h4>Actualmente aprendiendo ReactJS y NodeJS</h4> 
 
-<!--
-**jfcast/jfcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
+  
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/npm.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" />  
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gimp.svg" />
+  <img width=25 height=25 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/inkscape.svg" />
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
